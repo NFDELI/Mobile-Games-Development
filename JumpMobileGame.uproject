@@ -47,5 +47,9 @@
 			"Name": "HttpBlueprint",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
